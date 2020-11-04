@@ -1,6 +1,6 @@
-# Bubble Sort
+# Dific Mine Website
 
-> For this project, we created two **sorting algorithms** that use the [bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) method. 
+>This is a Dific investment website 
 
 This side-by-side comparative method is seen in the GIF image below.
 
@@ -14,13 +14,13 @@ This side-by-side comparative method is seen in the GIF image below.
 *Note: The first algorithm exits once an iteration is passed without any swaps made, signalling that the array is completely sorted. The second algorithm iterates the maximum possible number times (array.length - 1) before exiting. While both methods are suitable for the purposes of this project, it should be noted the first method is better practice in that it does not run code unnecessarily.*
 
 ## Built With
-- Ruby
-- VSCode
-- Rubocop
+- HTML
+- CSS
+- Javascript
 
 ## Live Demo
 
-To quickly see our project in action, visit the [live demo](https://repl.it/@cristianCeamatu/Bubble-Sort#main.rb) on repl.it.
+To quickly see our project in action, visit the [live demo]() on repl.it.
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ To get this project up and running, you must already have ruby installed on your
 
 3. Copy and paste the following code into the Terminal:
 
-    git clone https://github.com/cristianCeamatu/microverse-bubble-sort.git
+    git clone 
 
 4. Hit enter.
 
@@ -54,22 +54,17 @@ To get this project up and running, you must already have ruby installed on your
 
 ## Authors
 
-👤 **Tahiry RANDRIAMIARINTSOA**
+👤 **Developer**
 
-- Github: [@tahiry](https://github.com/tahiry-dev)
-- Linkedin: [Tahiry RANDRIAMIARINTSOA](https://www.linkedin.com/in/tahiry-randriamiarintsoa-2276831b1/)
+- Github: [@ty](https://github.com/)
+- Linkedin: [T](https://www.linkedin.com/in//)
 
 
-👤 **Cristian Viorel Ceamatu**
-
-- Github: [@cristianCeamatu](https://github.com/cristianCeamatu)
-- Twitter: [@CeamatuV](https://twitter.com/CeamatuV)
-- Linkedin: [Ceamatu Cristian Viorel](https://www.linkedin.com/in/ceamatu-cristian-viorel-7a5469136/)
-
+- 
 
 ## 🤝 Contributing
 
-The best way you can contribute to this project is by submitting an [issue](https://github.com/cristianCeamatu/microverse-bubble-sort/issues) to help us improve it!
+The best way you can contribute to this project is by submitting an [issue](s) to help us improve it!
 
 ## Show your support
 
